@@ -50,7 +50,7 @@ Category: Portfolios Track
         <b style={{ textAlign: "center" }}>Atakan Karagül's Portfolio</b>
         <p>Status Of This Memo</p>
         <p style={{ paddingLeft: "4ch" }}>
-          This document specifies an portfolio for the Developer community.
+          This document specifies a portfolio for the Developer community.
           Distribution of this memo is unlimited.
         </p>
         <p>Copyright Notice</p>
@@ -69,7 +69,7 @@ Category: Portfolios Track
           <div style={{ paddingLeft: "4ch" }}>
             <p>
               This portfolio describes Atakan Karagül's profession as a
-              Developer in a humorously RFC-like formatted way.
+              Developer in a humorously formatted in RFC style.
             </p>
             <span style={{ display: "flex", gap: "10px" }}>
               <a href="https://github.com/bytescreator">
@@ -101,7 +101,7 @@ Category: Portfolios Track
           <a href="https://datatracker.ietf.org/doc/html/rfc2324">
             I'm a teapot
           </a>{" "}
-          is an april fools joke.
+          is an April Fools' joke.
         </p>
         <p>Table Of Contents</p>
         <div
@@ -128,7 +128,7 @@ Category: Portfolios Track
             <a href="#2.1">2.1. </a> Language Support Matrix
           </span>
           <span>
-            <a href="#2.2">2.2. </a> Operational Compability
+            <a href="#2.2">2.2. </a> Operational Compatibility
           </span>
           <span>
             <a href="#2.3">2.3. </a> Known Issues
@@ -195,7 +195,7 @@ Category: Portfolios Track
           </p>
         </div>
         <p id="2.2.">
-          2.2. <b>Operational Compability</b>
+          2.2. <b>Operational Compatibility</b>
         </p>
         <div style={{ paddingLeft: "4ch" }}>
           The Subject can function effectively within the following
@@ -229,11 +229,12 @@ Category: Portfolios Track
           3. <b>Implemented Modules</b>
         </p>
         <div style={{ paddingLeft: "4ch" }}>
-          The subject privately and publicly implemented numerous modules:
+          The Subject has implemented numerous modules, both publicly and
+          privately:
           <ul>
             <li>
               <a href="https://github.com/bytescreator/jacktheyokripper">
-                a YOK Atlas scraper
+                a YÖK Atlas scraper
               </a>
             </li>
             <li>an e-Invoice verifier and indexer for a local municipality</li>
