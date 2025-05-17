@@ -250,7 +250,7 @@ Category: Portfolios Track
             <li>
               ... and several others which is private to{" "}
               <a href="https://datalines.com">Datalines</a> and{" "}
-              <a href="https://centaurinteractive.net">Centaur Interactive</a>
+              <a href="https://github.com/Centaur-Games">Centaur Interactive</a>
             </li>
           </ul>
         </div>
