@@ -125,13 +125,13 @@ Category: Portfolios Track
             <a href="#2.">2.</a> Technical Capabilities
           </span>
           <span>
-            <a href="#2.1">2.1. </a> Language Support Matrix
+            <a href="#2.1.">2.1. </a> Language Support Matrix
           </span>
           <span>
-            <a href="#2.2">2.2. </a> Operational Compatibility
+            <a href="#2.2.">2.2. </a> Operational Compatibility
           </span>
           <span>
-            <a href="#2.3">2.3. </a> Known Issues
+            <a href="#2.3.">2.3. </a> Known Issues
           </span>
           <span>
             <a href="#3.">3.</a> Previous Work
