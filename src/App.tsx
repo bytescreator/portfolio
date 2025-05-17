@@ -29,15 +29,24 @@ Category: Portfolios Track
 
     return (
       <div className="content">
-        <button
-          onClick={() => {
-            this.setState({ dark: !this.state.dark });
-            document.body.classList.toggle("dark");
-          }}
-        >
-          test
-        </button>
         <pre>{preh}</pre>
+        <div
+          style={{ display: "flex", alignSelf: "center", width: "fit-content" }}
+        >
+          <input
+            type="checkbox"
+            checked={this.state.dark}
+            onClick={() => {
+              this.setState({ dark: !this.state.dark });
+              document.body.classList.toggle("dark");
+            }}
+            className="checkbox"
+            id="checkbox"
+          />
+          <label htmlFor="checkbox" className="checkbox-label">
+            <span className="ball"></span>
+          </label>
+        </div>
         <b style={{ textAlign: "center" }}>Atakan Karagül's Portfolio</b>
         <p>Status Of This Nemo</p>
         <p style={{ paddingLeft: "4ch" }}>
