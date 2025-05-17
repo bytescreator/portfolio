@@ -272,12 +272,43 @@ Category: Portfolios Track
           <span>
             Telegram: <a href="https://t.me/bytescreator">@bytescreator</a>
           </span>
-          <span>
-            <a>Useless Contact Form</a>
-          </span>
+          <div>
+            <p>
+              <b>Useless Contact Form</b>
+            </p>
+            <i>this will just show an alert, it won't send a message!</i>
+            <form
+              onSubmit={this.handleSubmit}
+              action="/"
+              method="post"
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                width: "100%",
+              }}
+            >
+              <label htmlFor="name">Name Surname</label>
+              <input type="text" name="name" id="name" required></input>
+              <label htmlFor="email">Mail</label>
+              <input type="email" name="email" id="email" required></input>
+              <label htmlFor="content">Message</label>
+              <textarea
+                name="content"
+                id="content"
+                required
+                style={{ minWidth: "100%", maxWidth: "100%" }}
+              ></textarea>
+              <input type="submit" value="Send"></input>
+            </form>
+          </div>
         </div>
       </div>
     );
+  }
+
+  handleSubmit(event: React.SyntheticEvent<HTMLFormElement>) {
+    event.preventDefault();
+    alert(event);
   }
 }
 
