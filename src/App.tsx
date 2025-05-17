@@ -48,7 +48,7 @@ Category: Portfolios Track
           </label>
         </div>
         <b style={{ textAlign: "center" }}>Atakan Karagül's Portfolio</b>
-        <p>Status Of This Nemo</p>
+        <p>Status Of This Memo</p>
         <p style={{ paddingLeft: "4ch" }}>
           This document specifies an portfolio for the Developer community.
           Distribution of this memo is unlimited.
@@ -144,7 +144,7 @@ Category: Portfolios Track
           style={{ background: "black", marginTop: "10px", width: "100%" }}
         ></hr>
         <p id="1.">
-          1. <b>Subject Identitification</b>
+          1. <b>Subject Identification</b>
         </p>
         <p id="1.1.">
           1.1. <b>Designated Identifier</b>
@@ -248,7 +248,7 @@ Category: Portfolios Track
             in-house usage in <a href="https://datalines.com">Datalines</a>
           </li> */}
             <li>
-              ... and several others which is private to{" "}
+              ... and several others which are private to{" "}
               <a href="https://datalines.com">Datalines</a> and{" "}
               <a href="https://github.com/Centaur-Games">Centaur Interactive</a>
             </li>
