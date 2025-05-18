@@ -68,8 +68,8 @@ Category: Portfolios Track
         >
           <div style={{ paddingLeft: "4ch" }}>
             <p>
-              This portfolio describes Atakan Karagül's profession as a
-              Developer in a humorously formatted in RFC style.
+              This portfolio humorously presents Atakan Karagül’s profession as
+              a Developer in RFC style.
             </p>
             <span style={{ display: "flex", gap: "10px" }}>
               <a href="https://github.com/bytescreator">
